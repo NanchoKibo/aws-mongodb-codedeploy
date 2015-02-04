@@ -1,3 +1,3 @@
 # aws-mongodb with CodeDeploy
 
-test 7
+test 8
